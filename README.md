@@ -8,9 +8,9 @@ PHP v.5.6 keatas
 VPN (Kalo gua pake trial vpn zenmate)
 
 ### Update log:
-Set UID sendiri (optional)
-Set awalan IMEI (optional)
-Set panjang random IMEI (optional)
-Cek validasi captcha
+- Set UID sendiri (optional)
+- Set awalan IMEI (optional)
+- Set panjang random IMEI (optional)
+- Cek validasi captcha
 
 > Info: 1 akun 4x redeem jadi 2 tahun, kalo ubah paket ke UHD durasi berubah jadi 8 bulan
